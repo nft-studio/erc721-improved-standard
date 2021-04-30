@@ -73,7 +73,7 @@ As we mentioned above there are two operations to make sure our files are always
 
 ## Anatomy of an NFT
 
-At the end of the improvements we can easily understand how the `json` itself will look like and you can find a copy (here)[./NFT-Standard.json]:
+At the end of the improvements we can easily understand how the `json` itself will look like and you can find a copy [here](./NFT-Standard.json):
 
 ```
 {
