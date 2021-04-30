@@ -1,0 +1,22 @@
+Certificate of Authenticity
+
+<AUTHOR> - Last Revised: April 30th, 2021
+===========================================================
+
+1. Certificate
+--------------
+“This Certificate of Authenticity certifies that this artwork, is a one of a kind, authentic, original artwork created by the Artist <ARTIST>.
+All copyright and reproduction rights are reserved by the Artist if not regulated by a Creative Commons license. 
+The Artist can be contacted by Email: <ARTIST_EMAIL> or Website: <ARTIST_WEBSITE>
+
+2. Details
+----------
+Name of Artist: <ARTIST>
+Artist's digital identity: <PUBLIC_ADDRESS>
+Title: <TITLE>
+Description: <DESCRIPTION>
+Blockchain: <BLOCKCHAIN>
+Minting date: <DATE>
+Medium: NFT
+IPFS hash: <IPFSHASH>
+SHA256SUM: <SHA256HASH>

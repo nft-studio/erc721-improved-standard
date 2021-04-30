@@ -1,0 +1,9 @@
+{
+    "name": "<TITLE>",
+    "description": "<DESCRIPTION>\n\n\n--\n\n\nPublic License:\n<PUBLIC_LICENSE>\n\nOwner License:\n<OWNER_LICENSE>\n\nCertificate of Authenticity:\n<CA_IPFS_HASH>",
+    "image": "<IMAGE_IPFS_HASH>",
+    "external_url": "<EXTERNAL_URL>",
+    "certificate_of_authenticity": "<CA_IPFS_HASH>",
+    "owner_license": "<OWNER_LICENSE_IPFS_HASH>",
+    "public_license": "<PUBLIC_LICENSE_IPFS_HASH>"
+}

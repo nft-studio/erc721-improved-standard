@@ -1,0 +1,16 @@
+Cryptographical Proof
+
+Created by <AUTHOR> in date <DATE>
+===========================================================
+
+1. Public key
+--------------
+<PUBLIC_ADDRESS>
+
+2. Signed metadata
+------------------
+<HEX_METADATA>
+
+3. Signature
+------------------
+<SIGNATURE>

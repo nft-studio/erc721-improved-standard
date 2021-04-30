@@ -1,0 +1,16 @@
+{
+  "name": "signing-tools",
+  "version": "1.0.0",
+  "description": "Ethereum CLI signing tools",
+  "main": "index.js",
+  "scripts": {
+    "sign": "node sign -p=4af1bceebf7f3634ec3cff8a2c38e51178d5d4ce585c52d6043e5e2cc3418bb0 -m='Hello World'",
+    "verify": "node verify -s=0xbe7c7df2ba38d81a197329247bfdb9ab16a771e3fc80843249d6290898ef83d0025893a360ea234265f9ea92c197bf034b7a6a4c8e303042cf440a33bbbb92861c -m='Hello World'"
+  },
+  "author": "turinglabs",
+  "license": "MIT",
+  "dependencies": {
+    "eth-sig-util": "^3.0.1",
+    "minimist": "^1.2.5"
+  }
+}
