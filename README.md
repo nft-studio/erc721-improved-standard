@@ -76,7 +76,7 @@ Using one of the services mentioned above, pinning will be done on its own. If y
 
 Anatomy of an NFT
 
-The proposed improvements can be easily understood by analyzing the json, of which you can find a copy HERE:
+The proposed improvements can be easily understood by analyzing the json, of which you can find a copy here:
 {
     "name": "<TITLE>",
     "description": "<DESCRIPTION>\n\n\n--\n\n\nPublic License:\n<PUBLIC_LICENSE>\n\nOwner License:\n<OWNER_LICENSE>\n\nCertificate of Authenticity:\n<CA_IPFS_HASH>",
