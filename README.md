@@ -83,6 +83,7 @@ At the end of the improvements we can easily understand how the `json` itself wi
     "external_url": "<EXTERNAL_URL>",
     "certificate_of_authenticity": "<CA_IPFS_HASH>",
     "owner_license": "<OWNER_LICENSE_IPFS_HASH>",
-    "public_license": "<PUBLIC_LICENSE_IPFS_HASH>"
+    "public_license": "<PUBLIC_LICENSE_IPFS_HASH>",
+    "proof": "<PROOF_IPFS_HASH>"
 }
 ```
