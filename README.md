@@ -86,6 +86,6 @@ The proposed improvements can be easily understood by analyzing the json, of whi
     "owner_license": "<OWNER_LICENSE_IPFS_HASH>",
     "public_license": "<PUBLIC_LICENSE_IPFS_HASH>",
     "proof": "<PROOF_IPFS_HASH>"
-}
+    }
 
 
