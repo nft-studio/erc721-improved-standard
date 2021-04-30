@@ -8,9 +8,9 @@ Created by <AUTHOR> in date <DATE>
 <PUBLIC_ADDRESS>
 
 2. Signed data
-------------------
+--------------
 <HEX_DATA>
 
 3. Signature
-------------------
+------------
 <SIGNATURE>
