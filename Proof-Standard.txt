@@ -7,9 +7,9 @@ Created by <AUTHOR> in date <DATE>
 --------------
 <PUBLIC_ADDRESS>
 
-2. Signed metadata
+2. Signed data
 ------------------
-<HEX_METADATA>
+<HEX_DATA>
 
 3. Signature
 ------------------
